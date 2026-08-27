@@ -1,4 +1,3 @@
-
 package inershiop_package;
 
 import java.util.Scanner;
